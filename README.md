@@ -17,9 +17,9 @@
 ## 주요 기능
 <table>
   <tr>
-    <td><img alt="image" src="https://github.com/user-attachments/assets/6806081b-02a9-490e-af35-2054d947b582" width="200"/></td>
+    <td><img alt="image" src="https://github.com/user-attachments/assets/b56dd350-f622-4793-81fa-a3523f903e6a" width="200"/></td>
     <td><img alt="image" src="https://github.com/user-attachments/assets/93782e66-e5d9-4ccf-a3ad-a2f06e48947e" width="200"/></td>
-    <td><img alt="image" src="https://github.com/user-attachments/assets/4827997e-cc5b-4961-8c13-114a2b427346" width="200"/></td>
+    <td><img alt="image" src="https://github.com/user-attachments/assets/f904f8dc-d376-48bb-8cd6-8d482b8dcbbf" width="200"/></td>
     <td><img alt="image" src="https://github.com/user-attachments/assets/a7d2f357-0ab8-46d5-83cf-58453af33fd9" width="200"/></td>
   </tr>
 </table>
