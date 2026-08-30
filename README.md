@@ -15,10 +15,15 @@
 성당에서 미사를 드릴 때 50~80대의 어르신들의 휴대폰 벨소리가 울려 서로 민망해지는 상황을 자주 봤습니다. 무음 전환을 깜빡하는 건 누구나 겪는 일이고, 특히 스마트폰이 익숙지 않은 어르신에게는 더 큰 불편이라는 점에 주목해 "신경 쓰지 않아도 조용한 곳에서는 알아서 무음이 되는" 앱을 만들었습니다.
 
 ## 주요 기능
-<img width="756" height="1524" alt="image" src="https://github.com/user-attachments/assets/6806081b-02a9-490e-af35-2054d947b582" />
-<img width="756" height="1524" alt="image" src="https://github.com/user-attachments/assets/93782e66-e5d9-4ccf-a3ad-a2f06e48947e" />
-<img width="756" height="1524" alt="image" src="https://github.com/user-attachments/assets/4827997e-cc5b-4961-8c13-114a2b427346" />
-<img width="756" height="1524" alt="image" src="https://github.com/user-attachments/assets/a7d2f357-0ab8-46d5-83cf-58453af33fd9" />
+<table>
+  <tr>
+    <td><img alt="image" src="https://github.com/user-attachments/assets/6806081b-02a9-490e-af35-2054d947b582" width="200"/></td>
+    <td><img alt="image" src="https://github.com/user-attachments/assets/93782e66-e5d9-4ccf-a3ad-a2f06e48947e" width="200"/></td>
+    <td><img alt="image" src="https://github.com/user-attachments/assets/4827997e-cc5b-4961-8c13-114a2b427346" width="200"/></td>
+    <td><img alt="image" src="https://github.com/user-attachments/assets/a7d2f357-0ab8-46d5-83cf-58453af33fd9" width="200"/></td>
+  </tr>
+</table>
+
 
 - **등록 장소 자동 무음** — 사용자가 지정한 곳을 지도 선택/검색으로 등록하면, 그 구역에 들어갈 때 자동으로 무음/진동 전환 (Geofencing)
 - **카테고리 자동 무음** — 도서관·영화관·성당·교회·절·병원 등은 **등록 없이도** 주변을 인식해 자동 무음 (카카오 로컬 검색 기반)
